@@ -1,0 +1,12 @@
+# Blender backups / autosaves
+*.blend1
+*.blend2
+*.blend@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+# Secrets
+.env
